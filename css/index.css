@@ -195,6 +195,10 @@ header{
 	flex-shrink: 0;
 }
 
+.hours_time{
+	padding: 0 0.1rem;
+}
+
 .hours_img{
 	width: 0.58rem;
 	height: 0.58rem;
